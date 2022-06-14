@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sahilrao09
-- 👀 I’m interested in software devlopment, cybersec. and gaming
+- 👀 I’m interested in Web devlopment, cybersec. and gaming
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email: sahilydv1902@gmail.com
