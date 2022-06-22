@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sahilrao09
-- 👀 I’m interested in Web devlopment, cybersec. and gaming
+- 👀 I’m interested in Web devlopment, Devops and more...
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything that would increase my knowledege and experience
 - 📫 How to reach me Email: sahilydv1902@gmail.com
 
 <!---
